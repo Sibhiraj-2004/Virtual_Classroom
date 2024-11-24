@@ -354,5 +354,5 @@ A document workflow system is implemented where documents go through various sta
 📧 Contact Information
 For any inquiries or feedback, please reach out:
 
-Email: theerajnjegan@gmail.com
-GitHub: theerajn
+Email: sibhiraj2004@gmail.com
+GitHub: sibhiraj-2004
